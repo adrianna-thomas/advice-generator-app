@@ -34,12 +34,12 @@ body {
 }
 
 .container {
-    max-width: 95vw;
+    max-width: 90vw;
 }
 
 .card {
     background-color: var(--Dark-Grayish-Blue);
-    padding: 3rem;
+    padding: 2rem;
     text-align: center;
     max-width: 360px;
     border-radius: 15px;
@@ -48,7 +48,7 @@ body {
 
 h1 {
     text-transform: uppercase;
-    font-size: 18px;
+    font-size: 16px;
     color: var(--Neon-Green);
     padding-bottom: 1rem;
     letter-spacing: 3px;
@@ -56,7 +56,7 @@ h1 {
 
 .advice {
     color: white;
-    padding-bottom: 1.5rem;
+    padding-bottom: 2rem;
 }
 
 .divider img {
@@ -84,7 +84,7 @@ img.desktop-divider {
 
 .btn:hover {
     cursor: pointer;
-    box-shadow: 0 5px 15px var(--Neon-Green);
+    box-shadow: 0 2px 15px var(--Light-Cyan);
 }
 
 @media only screen and (min-width: 800px) {
